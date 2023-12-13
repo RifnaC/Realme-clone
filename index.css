@@ -167,8 +167,17 @@ h3{
 
 .add-on-card{
     margin-top: 0px !important;
-    padding: 8px;
-    
+    padding: 8px; 
+}
+.price-rate-off{
+    margin-top: 16px;
+    color: #ff3215;
+    font-size: 14px;
+    font-weight: bold;
+    width: 104px;
+    padding-right: px;
+    border-radius: 4px;
+    padding-left: 6px;
 }
 .add-on{
     width: 36px;
@@ -177,7 +186,8 @@ h3{
 .add-on-card p{
     font-size: 14px;
     padding: 8px;
-    padding-right: 164px;
+    padding-top: 4px;
+    padding-right: 120px;
 }
 .btn{
     max-height: 24px;
